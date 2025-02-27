@@ -14,9 +14,7 @@ Reestar - Food Ordering Website 🍔🍗🥚🍞
 🔥 Practiced using buttons, forms, and images effectively
 
 📂 Project Structure
-graphql
-Copy
-Edit
+
 / Reestar  
 │-- images/                 # Contains food images  
 │-- style.css               # CSS for styling the website  
@@ -27,9 +25,7 @@ Edit
 
 💻 How to Run the Project Locally
 Clone the repository:
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/reestar.git
 Open index.html in your browser.
 🤝 Contributing
