@@ -21,7 +21,7 @@ Reestar - Food Ordering Website 🍔🍗🥚🍞
 │-- index.html              # Main HTML file  
 │-- README.md               # Project documentation  
 🚀 Live Demo
-🔗 Live Project Link
+🔗 [Live Project Link](https://dineshv1472.github.io/Reestar-wesite/)
 
 💻 How to Run the Project Locally
 Clone the repository:
@@ -36,6 +36,6 @@ Feel free to fork this repository and make improvements! Contributions are alway
 
 Just replace:
 
-"your-username" with your GitHub username
-"your-live-demo-link-here" with your deployed project link (if available)
+"dineshv1472" with your GitHub username
+"[your-live-demo-link-here](https://dineshv1472.github.io/Reestar-wesite/)" with your deployed project link (if available)
 Let me know if you need any modifications! 🚀
