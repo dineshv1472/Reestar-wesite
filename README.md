@@ -26,7 +26,7 @@ Reestar - Food Ordering Website 🍔🍗🥚🍞
 💻 How to Run the Project Locally
 Clone the repository:
 
-git clone https://github.com/your-username/reestar.git
+git clone https://github.com/dineshv1472/reestar.git
 Open index.html in your browser.
 🤝 Contributing
 Feel free to fork this repository and make improvements! Contributions are always welcome.
